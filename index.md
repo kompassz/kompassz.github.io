@@ -8,7 +8,7 @@ Langkah paling simpel untuk convert gambar jadi PDF dengan memakai feature bikin
 
 Cara di atas kemungkinan efisien bila file yang ingin diganti cuman satu, tapi bila ada lebih satu atau banyak file sekalian pasti tidak dapat gunakan cara itu.
 
-Langkah Mengganti JPG ke PDF di HP Android Paling mudah 2021
+## Langkah Mengganti JPG ke PDF di HP Android Paling mudah 2021
 
 Kesempatan ini, penablog.com akan membagi beragam sistem yang dapat diputuskan untuk convert file jpg ke PDF lewat cara online atau memakai beberapa program yang kerap dipakai setiap hari.
 
@@ -30,7 +30,7 @@ Secara standar nama file akan dibikin jadi dokumen.pdf dan sebagainya, bila ingi
 
 Benar-benar gampang kan? Ringkas dan gratis karena program MS Office untuk Android ini dapat dipakai tak perlu register atau up-grade ke premium atau beli lisensi.
 
-Langkah Convert File JPG Jadi PDF Di HP Android Online Tanpa Program
+## Langkah Convert File JPG Jadi PDF Di HP Android Online Tanpa Program
 
 Untuk yang tidak mau instal program tambahan karena itu dapat memakai service situs online penyuplai JPG to PDF converter yang banyaknya ada banyak.
 
@@ -83,7 +83,7 @@ Lakukan aplikasinya lalu tap ikon + selanjutnya tentukan PDF From Gambar.
 Mencari file gambar yang ingin kita taruh jadi PDF dari gallery ponsel atau mengambil langsung memakai camera HP.
 Paling akhir tetapkan lokasi folder di mana kita akan simpan file hasilnya lalu Select.
 
-Mengganti Photo Ke PDF Dengan SmallPDF Android
+## Mengganti Photo Ke PDF Dengan SmallPDF Android
 
 Small PDF rupanya bukan hanya sediakan layanan online saja, tapi sediakan program PDF Converter gratis untuk Android.
 
